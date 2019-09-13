@@ -19,7 +19,8 @@ In Cisco certifications it allows you and makes you practice to get ready and pe
 #### Certificates
 At Tri-C certificates they have whole bunch of selections of jobs from an Associates degree of Programming and Development all the way to fast track learning for Cleveland codes.
 #### Co-op/Internships
-To be considered co-op ready you must have a 2.75GPA or high and enrolled in Community College along with 12 credit hours. With an uploaded resume and your career of interest you can become accepted. For an internship 
+To be considered co-op ready you must have a 2.75GPA or high and enrolled in Community College along with 12 credit hours. With an uploaded resume and your career of interest you can become accepted. For an internship you get an experience with hands on people in your feild and get to work with them. Although internships don't count as credit hours.
+
 
 
 ### Conclusion
