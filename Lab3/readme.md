@@ -7,5 +7,8 @@ Software is made up of three roles which are application, utility, and operating
 ### Virtualization 
 Virtualization can fix many types of problems like using multiple operating systems for different apps and servers. In virtualization hypervisors take physical resources and divides it so the virtual enviornments can use it.
 
+### Python
+In a pseudo-code python it focuses on the problem and to fix it rather than codes itself. Pseudo code could mean that it's a secondary solution than going straight for the codes itself. An interpreted language is a source code that translates to a native language on your computer and runs it through, in a compiled language converts the lanuage of your computer with flags and options, it runs from the hard disk to memory and then runs. 
+
 
 ### conclusion
