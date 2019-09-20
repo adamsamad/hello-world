@@ -3,6 +3,9 @@
 
 
 
+### Python IDLE
+In Python shell allows you to make instant results and really great to start when you're first learning, it instantly makes the code right as you press ENTER, and file editors let you type of everything at once and then it runs everything through, it also has more specific ways to type your code. 
+
 
 
 ### Graphics
