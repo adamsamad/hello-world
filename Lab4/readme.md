@@ -5,8 +5,7 @@
 ### Python IDLE
 In Python shell allows you to make instant results and really great to start when you're first learning, it instantly makes the code right as you press ENTER, and file editors let you type of everything at once and then it runs everything through, it also has more specific ways to type your code. 
 ##### Code Examples
-A variable will allow you to value it contains, for example, the input function makes a variable. A string is a connection or the value of the input. 
-
+A variable will allow you to value it contains, for example, the input function makes a variable. Spam, bacon and eggs are all used as a generic variable, for example, books have some generic names but in programming we use them to make the code readable. An assignment statement is when you make a variable equal to something, for example, dog = 99. A fuction is when a string is being passed down to the fuction, it basically is a display case for the string, like when you type print ("Hello World"). The three data types are strings, intergers and floating-point forms. Strings are all words like "a" "me" "you." Intergers are nubmers without decimals like -2, 5 and 10. Floating-point numbers are numbers with decimals, -4.6, -7.1 and 5.3.
 
 ### Graphics
 ##### Raster vs. Vector Graphics
