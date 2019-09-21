@@ -1,6 +1,5 @@
 ### Executive Summary
-
-
+In this lab I will be researching and exploring more about python and the codes it has. Firstly shell and file editors are two different things that do the same thing. There are also certain graphics like jpeg, gif and png that can be better in different browsers or depending on the image. In those graphic files there are also things that affect it like losslesss compression and lossy compression depending on what you're looking for. I'm also going to find out how to find and make a file property and see what goes into it like how much quality an image has on different browsers and what can be different about it. Firstly lets see how Python IDLE works with shell and file editors.
 
 ### Python IDLE
 In Python shell allows you to make instant results and really great to start when you're first learning, it instantly makes the code right as you press ENTER, and file editors let you type of everything at once and then it runs everything through, it also has more specific ways to type your code. 
@@ -18,3 +17,4 @@ The three file formats are GIF, graphics interchange format, JPEG which is, join
 My image was based off of Luigi from the Mario Brothers and I did this because Luigi has always been one of my favorite game characters. To make this image I had twelve layers for it to come out the way it did. I tried playing around with the tools more but I figured this is good. The file size of this 4,063 bytes and it's opened with Google Chrome. I don't feel that any other application would be more appropriate than Google Chrome since it's what most people use for everything and is a pretty solid appication in general. 
 
 ### Conclusion 
+After this whole lab experience I learned a lot about how different codings worked, especially if you mistype one simple mistake. It's still very interesting and satisfying after you correct the mistake. Some things that I didn't know like intergers, strings, floating-points are certain codes that I didn't even know of. Lossless and lossy compressions are also somethings that I didn't know can determine an image and make it a higher or lower quality than it already was. I also already new of GIF, PNG, JPEG but I never knew what they were all meant or used for specifically but after doing some research and learnign through the platform I discovered how different they truly are and how specific they can be. As a summary to all fo this looking at the file properties can help you see how much room or bytes are on it and also what application to use it on for better quality or use. 
