@@ -14,5 +14,8 @@ The single point failure is if the central network goes down then the rest of th
 ##### Network Design
 In my design it is based off of the Infrastructure Topology since that's what I prefer because it's what I use at home. I connect the modem and the router and if I use a computer I connect it wired and if I use my phone or a laptop I have an access point and that's how I connect my internet. 
 
+#### NSA/CSS
+The NSA's role in cybersecurity is to help defend the IT systems of the United States and benifit from other intelligence information recieved.
+
 ### Conclusion
 
