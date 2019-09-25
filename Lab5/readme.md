@@ -12,7 +12,7 @@ All a hub specificially knows is whether data is connected to one of it's ports,
 ##### Network Topologies
 The single point failure is if the central network goes down then the rest of the networks connected fail as well and the entire network shuts down. Infrastructure Topology is the use of wireless and wired and is like the star topology since it is connected directly wired to the wireless access point so others that aren't connected wirely can connect. Wireless Mesh Topology is when intereconnect with each other while being wirelessly connected. For example, a modem brings in interenet to the building and the switch is connected to the modem, without wiring the switch to everything all the other devices just read off of each other to gain access. Even if one access point fails all the other access points can just kep reading off of the other access points. For me especially I feel that the best way to go for a family is the Wireless Mesh Topology since you can wirelessly connect to everyone and it seems best but for me I would rather prefer a Infrastructure Topology since I like being more wired for a stronger connection. 
 ##### Network Design
-
+In my design it is based off of the Infrastructure Topology since that's what I prefer because it's what I use at home. I connect the modem and the router and if I use a computer I connect it wired and if I use my phone or a laptop I have an access point and that's how I connect my internet. 
 
 ### Conclusion
 
