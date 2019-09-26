@@ -1,5 +1,5 @@
 ### Executive Summary
-
+As I've mostly states before in all the other labs, everything I'm learning is new to me and I'm enjoying it a lot so far. As for this lab I'm going to be explaing lucid charts, networking, cybersecurity and cryptoraphs. I'm mostly looking forward to explaing the newtworking since that's how we use our internet and are able to communicate online. Newtworking is alo how we all communicate through the internet and are able to all types of IT jobs. Many different ideas and goals are created straight through programing with computers and looking up stuff on Google with the internet. So how about we take a look at Lucidchart to see some visuals and then look a little bit into networking.
 
 #### Lucidchart
 My first look at lucidchart was a bit odd since I didn't quite understand how to use it but after playing around with it I realized it was pretty simple and that it has everything you really need for a flowchart. I was looking at templates and trying to understnad what I was suppose to do but then something just clicked and everything just felt easy from there and on.
@@ -25,6 +25,5 @@ For my secret message I typed in my name to see what the encrypted message would
 ##### Brute-Force 
 Brute-Force is an attack that tries to decrypt a key to the best of it's abillity to a cipher. This relates to the Kerckhoff's principle because as the article states "The enemies know the system" it's a great way to not decrypt it in the first palce ebcause they'll just think they will have to and be incorrect. 
 
-
 ### Conclusion
-
+As I stated in the introduction networking was definitly the beginning of the IT world but cryptographs are also something that caught my eye. Before we had internet and everything we had codes in war to say where or when we were going in which is what soldiers used, but what if they enemy spoke the language? Easy, we just made a secret code, this is pretty clever until enemies catch on. Also Lucidchart has a lot of tools to play with to make visuals so you can clearly understand what you''re doing. Working with information systems like online chatting with Amazon or any support page is important with networking since you don't wanna lose any connection. As a result the NSA will always have our backs protecting all of our IT equipment and making progress twards the future!
