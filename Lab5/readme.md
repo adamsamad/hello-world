@@ -17,5 +17,9 @@ In my design it is based off of the Infrastructure Topology since that's what I 
 #### NSA/CSS
 The NSA's role in cybersecurity is to help defend the IT systems of the United States and benifit from other intelligence information recieved.
 
+#### Cybersecurity and Encryptions
+##### Information Systems Security
+If I was working with an Amazon.com online chat I'd need the security to be top notch and never go down since I'm going to be talking to someone online most of the time and if something disconnects that'll be my fault and the customer would put a bad review either on my name or website which could get me fired. A few daily tasks for authetication are passwords to log in, a physical trait like a thumb to log in, and an email to be even more secure. Multi authentication is just multiple authentications into one so there is a sure chance it's the person who owns the account. Advantages of ACL are that multiple people can access it with the authorization that was given and have the ability to make actions. If a user isn't on the list to access this then they cannot even see the information. A disadvantage of ACL is that if an administrator wanted to add or remove somebody it would make the ACL harder to maintain and eventually might even crash. The advantage of RBAC is that it can give users roles and then the roles give the access to people which is something the ACL doesnt do but a problem with RBAC is that it has to go through another access before being granteed authorization 
+
 ### Conclusion
 
