@@ -22,5 +22,8 @@ The purpose of each technology we use to code is very specific because each char
 ##### HTML and XML 
 In XML it is more used to store data unlike HTML where it can display data. XML also doesn't have predefined and made up tags like how HTML. 
 
+### Components of URL
+A scheme is the part of the link where it is "http://" and a domain name is the ".rngeijgneig." part of the link. A top level domain are things like .org, .edu and .com. A default page is just the home page your browser automatically goes to like how many people have google as the first page or how google chrome first searches on google. Parameters are the string of letters after you type in your link, it may not seem like much but it's critical. Also anchors are where the page can direct you to the part of the website you are looking for or searched for. 
+
 ### Conclusion 
 
