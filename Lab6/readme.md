@@ -17,6 +17,10 @@ You should always secure your web broswer because there could be viruses or thin
 ### Internet Programming
 ##### World Wide Web Consortium
 Tim-Berners Lee is the creator of the world wide web, he created the W3C to help move forward technology development and to manage operations. The standard Web Design and Applications is important because it is the basic prcedure to bulding a web page or an app, it can also help improve the website to help people with diisablities.
+##### HTML5 and CSS
+The purpose of each technology we use to code is very specific because each character we put can make or break the web page. I've already done a little bit of HTML and CSS before so before going into this I went in very cautiously so I don't have to find any mistakes I made since it's very eadsy to if not careful. 
+##### HTML and XML 
+In XML it is more used to store data unlike HTML where it can display data. XML also doesn't have predefined and made up tags like how HTML. 
 
 ### Conclusion 
 
