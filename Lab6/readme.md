@@ -11,6 +11,8 @@ TCP/IP defines data and defines how it is sent and recieved through modems, rout
 ##### Internet Security
 HTTP is used for viewing webpages on the internet. It's used with the client-server mondel because it gives the client information and then the server sends the information by loading the website. HTTP uses a secure HTTP by encrypting the data that's being sent to HTTP, it uses a special algorithim to scamble data so it can't be hacked. 
 
+##### Securing Your Web Browser 
+You should always secure your web broswer because there could be viruses or things you are unknown to crawling into your computer and making it not function as well, there are also hackers that may go into your computer and collect all your valuable data. A risk that this article mentioned are cookies, which are used to identify someone visiting the website. Cookies are a violation of privacy but yet still people continue to use them. This is a big risk because if a hacker decided to come along then he or she will jsut take your information from your computer. 
 
 
 ### Conclusion 
