@@ -1,5 +1,5 @@
 ### Executive Summary 
-
+In this an interesting lab that actually made me very excited since I've already learned about the HTML and CSS, but none of the other stuff. Firstly Internet Protocol is mainly about IP Adresses which is very important. Also internet security in general is something everyone shoud be cautious of since many people can easily become hackers and steal your data. Securing your web browser is what many people can have problems with since there are a lot of viruses online whenever you click on a website. I'm gonna start by explaing the Internet Architecture of IT. 
 
 ### Internet Architecture 
 ##### Internet Protocol
@@ -26,4 +26,4 @@ In XML it is more used to store data unlike HTML where it can display data. XML 
 A scheme is the part of the link where it is "http://" and a domain name is the ".rngeijgneig." part of the link. A top level domain are things like .org, .edu and .com. A default page is just the home page your browser automatically goes to like how many people have google as the first page or how google chrome first searches on google. Parameters are the string of letters after you type in your link, it may not seem like much but it's critical. Also anchors are where the page can direct you to the part of the website you are looking for or searched for. 
 
 ### Conclusion 
-
+I was completly clueless for some of these topics like the internet security and bowser and how badly it can really affect a computer. I enjoyed all of the internet programming since I love creating websites and just seeing a result in my work. HTML and CSS is what most people seem to use when they first start out programming. For internet security most people should download an ad blocker or something that negates anything from touching your computer so nobody can easily get in and steal valuable information. I always look forward to coding and hope in the future I can code a game while I continuously work on IT.
