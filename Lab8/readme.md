@@ -1,5 +1,5 @@
 ### Executive Summary
-
+This last week of IT1025 is very simple and just a simple knowledge overview oh how big data and ethical implications work. I will be doing minor coding in SQL and learning the simplistics that that. Other than that data is very simple and easy to understand. Lasty Information Collection is needed to know what you're doing along with the copyright laws and how they can be important.
 
 ### Data, Information and Knowledge
 #### Relational Data 
@@ -14,6 +14,15 @@ RDBMS stands for Relational Database Management System. RDBMS is the basis for S
 #### SQL Injections
 SQL injection is the placement of malicious code in SQL statements, via web page input. SQL injection usually occurs when you ask a user for input, like their username/userid, and instead of a name/id, the user gives you an SQL statement that you will unknowingly run on your database. To prevent this you can use SQL parameters. SQL parameters are values that are added to an SQL query at execution time, in a controlled manner. 
 
+### Ethical and Legal Implications
+#### Code of Ethics
+Code of Ethics is a document that outlines a set of acceptable behaviors for a professional or social group; generally, it is agreed to by all members of the group. The document details different actions that are considered appropriate and inappropriate. The ACM made this because the commitment to ethical professional conduct is expected of every member of the community. In AUP this policy outlines what is allowed and what is not allowed while someone is using the organization’s services. In Code of Ethics it has specifc behaviors you can do in the group and everyone agrees with each other while discussing what is appropriate and inappropriate. I chose to look at Virginia Tech's AUP and what I found was many basc and common sensed information. For example, “Borrowing” someone else’s login ID and password is prohibited. https://vt.edu/acceptable-use.html 
 
+#### Intellectual Property 
+WIPO is the global forum for intellectual property (IP) services, policy, information and cooperation. The importance is their mission which is to lead the development of a balanced and effective international IP system that enables innovation and creativity for the benefit of all. n the majority of countries, and according to the Berne Convention, copyright protection is obtained automatically without the need for registration or other formalities.The benifit of having a compy right is due to economic rights, which allow the rights owner to derive financial reward from the use of their works by others. It would be important to copyright my svg image because if someone else used it without a copyright from me then they would recieve moeny or a reward for my invention. If the svg image I created would be an item anyone can identify then the role of trademark would be for a game or some kind of program. 
+
+#### Information Collection
+HIPAA provides privacy and security for protected health information (PHI). Failure to comply with HIPAA can result in severe consequences for organizations and individuals alike. FERPA is in place to protect the privacy of student education records, giving a set of rights to students and their parents. COPPA imposes certain requirements on operators of websites or online services directed to children under 13 years of age, and on operators of other websites or online services that have actual knowledge that they are collecting personal information online from a child under 13 years of age.
 
 ### Conclusion
+As a result in this lab I did learn a lot but not much abotu codign except SQL. I'm more eager to learn how to make stuff online than many laws and policies as discussed in this lab. This was a great experience and I could definitly use copyright laws and just simple polocies in the future. 
