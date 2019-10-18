@@ -11,7 +11,8 @@ Volume represents the amount of data you can have and is one of the main charact
 ### Structured Query Language
 RDBMS stands for Relational Database Management System. RDBMS is the basis for SQL, and for all modern database systems. The purpose of SQL is to let you access and manipulated multiple databases, without out it you wouldn't be doing much. For the diagram I chose "Orders" and "Customers." In these the primary key would be the Orders since it is supplying the items, and the foriegn key would be Customers since they are browsing different items and can recieve different items. The relationship is that they both have information that needs to be put in correctly so nothing goes wrong or gets missing by communication error.
 
-
+#### SQL Injections
+SQL injection is the placement of malicious code in SQL statements, via web page input. SQL injection usually occurs when you ask a user for input, like their username/userid, and instead of a name/id, the user gives you an SQL statement that you will unknowingly run on your database. To prevent this you can use SQL parameters. SQL parameters are values that are added to an SQL query at execution time, in a controlled manner. 
 
 
 
